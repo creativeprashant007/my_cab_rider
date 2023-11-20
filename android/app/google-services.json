@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589846735931",
+    "firebase_url": "https://cab-rider-35e1c-default-rtdb.firebaseio.com",
+    "project_id": "cab-rider-35e1c",
+    "storage_bucket": "cab-rider-35e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589846735931:android:d64a53fd3793d6e0c8c01e",
+        "android_client_info": {
+          "package_name": "com.example.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589846735931-9d16u306grjqcsns74f06ckf9br4tkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnYVcxOEaejEzT6UyG8l8n5EZ2mT9C1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589846735931-9d16u306grjqcsns74f06ckf9br4tkpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
